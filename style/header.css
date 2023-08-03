@@ -1,0 +1,25 @@
+. cabecalho{
+  display: flex;
+  justify-content:space-between;
+  background-color: var (--branco);
+  align-items: center;
+  position: relative;
+}
+cabecalho--menu{
+    display:inline-block;
+    background-image: var (.../ing/menu sug);
+    background-repeat:no-repeat;
+    background-positin:center;
+    width:24 px
+    height:24 px;
+}
+. container                                                             
+display: flex;         
+justify- content  
+s pace- between:  
+] 
+. container--imagem[ 
+  padding: 1em; 
+  lista--menu[ 
+    display: none; 
+    background- color;var*(--branco) 
